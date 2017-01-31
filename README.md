@@ -1,7 +1,7 @@
 # kindlefirmwarelist
 A list of kindle fire tablet firmware downloads. Downloads straight from Amazon.
 
-Please Note: This list is not complete and may not be 100% accurate. I'm just finding these links on the internet archive and sharing them incase people need previous firmwares for their device. Also, I recommend doing your own research before attempting to use these firmwares for updating etc. to avoid messing up/bricking your device.
+Please Note: This list is not complete and **may not be 100% accurate**. I've attempted to correctly list the links to the best of my ablity. I'm just finding these links on the internet archive and sharing them incase people need previous firmwares for their device. Also, I recommend **doing your own research before attempting to use these firmwares for updating etc. to avoid messing up/bricking your device.**
 
 To add to/improve this list, open an issue or pull request with the links to the firmware in them.
 
