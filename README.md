@@ -1,7 +1,7 @@
 # kindlefirmwarelist
 A list of kindle fire tablet firmware downloads. Downloads straight from Amazon. List also available at https://sunderb.github.io/projects/kindlefirmwarelist. To add to/improve this list, open an issue or pull request with the links to the firmware in them.
 
-Currently contains link to firmwares for: [Kindle Fire HD 3rd Gen](#kindle-fire-hd-3rd-generation), [Kindle Fire HDX 3rd Gen](#kindle-fire-hdx-3rd-generation) and [Kindle Fire HDX 8.9 3rd Gen"](#kindle-fire-hdx-89-3rd-generation).
+Currently contains links to firmwares for: [Kindle Fire HD 3rd Gen](#kindle-fire-hd-3rd-generation), [Kindle Fire HDX 3rd Gen](#kindle-fire-hdx-3rd-generation) and [Kindle Fire HDX 8.9 3rd Gen"](#kindle-fire-hdx-89-3rd-generation).
 
 # Kindle Fire HD 3rd Generation
 | Fire OS Version | Download Link |
