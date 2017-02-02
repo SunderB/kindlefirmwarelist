@@ -41,7 +41,7 @@ Currently contains links to firmwares for: [Kindle Fire HD 3rd Gen](#kindle-fire
 # Fire HD 6 4th Generation
 | Fire OS Version | Download Link |
 |---------|----------|
-| 4.5.5.2  | https://fireos-tablet-src.s3.amazonaws.com/4lZB73kWBGIIliKULTlDZW6woE/update-kindle-20.5.5.4_user_554207020.bin |
+| 5.3.1.1  | https://fireos-tablet-src.s3.amazonaws.com/4lZB73kWBGIIliKULTlDZW6woE/update-kindle-20.5.5.4_user_554207020.bin |
 | 4.5.5  | https://kindle-fire-updates.s3.amazonaws.com/e505dQLiLDpHFW1fN9x7t252bo/update-kindle-20.4.5.5_user_455001820.bin |
 | 4.5.4  | https://kindle-fire-updates.s3.amazonaws.com/update-kindle-20.4.5.4_user_454006120.bin |
 | 4.5.3  | https://kindle-fire-updates.s3.amazonaws.com/update-kindle-20.4.5.3_user_453011120.bin |
