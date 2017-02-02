@@ -5,7 +5,10 @@ Please Note: This list is not complete and **may not be 100% accurate**. I've at
 
 To add to/improve this list, open an issue or pull request with the links to the firmware in them.
 
-Currently contains links to firmwares for: [Kindle Fire HD 3rd Gen](#kindle-fire-hd-3rd-generation), [Kindle Fire HDX 3rd Gen](#kindle-fire-hdx-3rd-generation) and [Kindle Fire HDX 8.9 3rd Gen"](#kindle-fire-hdx-89-3rd-generation).
+Currently contains links to firmwares for: [Kindle Fire HD 3rd Gen](#kindle-fire-hd-3rd-generation), [Kindle Fire HDX 3rd Gen](#kindle-fire-hdx-3rd-generation), [Kindle Fire HDX 8.9" 3rd Gen](#kindle-fire-hdx-89-3rd-generation) and [Fire HD 6 4th Generation](#fire-hd-6-4th-generation).
+
+# Attributions
+
 
 # Kindle Fire HD 3rd Generation
 | Fire OS Version | Download Link |
@@ -34,3 +37,12 @@ Currently contains links to firmwares for: [Kindle Fire HD 3rd Gen](#kindle-fire
 | 4.5.3  | https://kindle-fire-updates.s3.amazonaws.com/update-kindle-14.4.5.3_user_453011120.bin |
 | 4.5.2 | https://kindle-fire-updates.s3.amazonaws.com/update-kindle-14.4.5.2_user_452004220.bin |
 | 3.2.5| https://kindle-fire-updates.s3.amazonaws.com/update-kindle-14.3.2.5_user_325001120.bin |
+
+# Fire HD 6 4th Generation
+| Fire OS Version | Download Link |
+|---------|----------|
+| 4.5.5.2  | https://fireos-tablet-src.s3.amazonaws.com/4lZB73kWBGIIliKULTlDZW6woE/update-kindle-20.5.5.4_user_554207020.bin |
+| 4.5.5  | https://kindle-fire-updates.s3.amazonaws.com/e505dQLiLDpHFW1fN9x7t252bo/update-kindle-20.4.5.5_user_455001820.bin |
+| 4.5.4  | https://kindle-fire-updates.s3.amazonaws.com/update-kindle-20.4.5.4_user_454006120.bin |
+| 4.5.3  | https://kindle-fire-updates.s3.amazonaws.com/update-kindle-20.4.5.3_user_453011120.bin |
+| 4.5.2 | https://kindle-fire-updates.s3.amazonaws.com/update-kindle-20.4.5.2_user_452004220.bin |
