@@ -8,7 +8,7 @@ To add to/improve this list, open an issue or pull request with the links to the
 Currently contains links to firmwares for: [Kindle Fire HD 3rd Gen](#kindle-fire-hd-3rd-generation), [Kindle Fire HDX 3rd Gen](#kindle-fire-hdx-3rd-generation), [Kindle Fire HDX 8.9" 3rd Gen](#kindle-fire-hdx-89-3rd-generation) and [Fire HD 6 4th Generation](#fire-hd-6-4th-generation).
 
 # Attributions
-
+[The Internet Archive](http://archive.org/web/)
 
 # Kindle Fire HD 3rd Generation
 | Fire OS Version | Download Link |
