@@ -17,18 +17,26 @@ Currently contains links to firmwares for:
 **This list is provided 'as-is', without any express or implied warranty. In no event will I (SunderB) be held liable for any damages
 arising from the use of: this list or the firmwares in the downloads of this list.**
 
+# Latest Software Updates
+* Latest software updates for all Kindle devices: https://www.amazon.com/gp/help/customer/display.html?nodeId=G2JXLC4L34GX73TE
+* Source code and notices: https://www.amazon.com/gp/help/customer/display.html?nodeId=200203720
+
 # Kindle Fire HD 3rd Generation
 Amazon Software Update Page (to download the latest software update): https://www.amazon.com/gp/help/customer/display.html?nodeId=201357170
 
-| Fire OS Version | Download Link |
-|---------|----------|
-| 4.5.5.3 | https://fireos-tablet-src.s3.amazonaws.com/SAsacHmumgrMpCXPdw6oykKMaw/update-kindle-11.4.5.5_user_455006120.bin |
-| 4.5.5.2 | https://kindle-fire-updates.s3.amazonaws.com/KynfkjCCIcnvbdhpwFlQ4xjyiw/update-kindle-11.4.5.5_user_455004220.bin |
-| 4.5.5.1 | https://kindle-fire-updates.s3.amazonaws.com/Nq6KdpIbZtxizXYCqcEa8GIpUC/update-kindle-11.4.5.5_user_455002120.bin |
-| 4.5.4   | https://kindle-fire-updates.s3.amazonaws.com/update-kindle-11.4.5.4_user_454006120.bin |
-| 4.5.3   | https://kindle-fire-updates.s3.amazonaws.com/update-kindle-11.4.5.3_user_453011120.bin |
-| 4.5.2   | https://kindle-fire-updates.s3.amazonaws.com/update-kindle-11.4.5.2_user_452004220.bin |
-| 3.2.5   | https://kindle-fire-updates.s3.amazonaws.com/update-kindle-11.3.2.5_user_325001620.bin |
+| Fire OS Version | Download Link | Info Page on Internet Archive |
+|:----------------|:--------------|:------------------------------|
+| 4.5.5.5 | https://fireos-tablet-src.s3.amazonaws.com/xPivkDty9ez1ia7C8dhJyGtxjw/update-kindle-11.4.5.5_user_455006820.bin   | https://web.archive.org/web/20190331194547/https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=201357170 (March 2019) |
+| 4.5.5.3 | https://fireos-tablet-src.s3.amazonaws.com/SAsacHmumgrMpCXPdw6oykKMaw/update-kindle-11.4.5.5_user_455006120.bin   | Not found or available                                                                                                                |
+| 4.5.5.2 | https://kindle-fire-updates.s3.amazonaws.com/KynfkjCCIcnvbdhpwFlQ4xjyiw/update-kindle-11.4.5.5_user_455004220.bin | Not found or available                                                                                                                |
+| 4.5.5.1 | https://kindle-fire-updates.s3.amazonaws.com/Nq6KdpIbZtxizXYCqcEa8GIpUC/update-kindle-11.4.5.5_user_455002120.bin | https://web.archive.org/web/20160410085521/http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=201357170 (April 2016)  |
+| 4.5.5   | https://kindle-fire-updates.s3.amazonaws.com/BD5BJhJk4YwyKSqGaHgKFcSiIR/update-kindle-11.4.5.5_user_455001820.bin | https://web.archive.org/web/20160119034602/https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=201357170 (Jan 2016)   |
+| 4.5.4   | https://kindle-fire-updates.s3.amazonaws.com/update-kindle-11.4.5.4_user_454006120.bin                            | Not found or available                                                                                                                |
+| 4.5.3   | https://kindle-fire-updates.s3.amazonaws.com/update-kindle-11.4.5.3_user_453011120.bin                            | https://web.archive.org/web/20150419105114/http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=201357170 (April 2015)  |
+| 4.5.2   | https://kindle-fire-updates.s3.amazonaws.com/update-kindle-11.4.5.2_user_452004220.bin                            | https://web.archive.org/web/20150215022600/http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=201357170 (Feb 2015)    |
+| 4.1.1   | https://kindle-fire-updates.s3.amazonaws.com/update-kindle-11.4.1.1_user_411009920.bin                            | https://web.archive.org/web/20141106160752/http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=201357170 (Nov 2014)    |
+| 3.2.6   | https://kindle-fire-updates.s3.amazonaws.com/update-kindle-11.3.2.6_user_326002520.bin                            | https://web.archive.org/web/20141004224214/http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=201357170 (Oct 2014)    |
+| 3.2.5   | https://kindle-fire-updates.s3.amazonaws.com/update-kindle-11.3.2.5_user_325001620.bin                            | https://web.archive.org/web/20190331194547/https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=201357170 (March 2019) |
 
 # Kindle Fire HDX 3rd Generation
 Amazon Software Update Page (to download the latest software update): https://www.amazon.com/gp/help/customer/display.html?nodeId=201357190
