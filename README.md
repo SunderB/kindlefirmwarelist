@@ -4,6 +4,8 @@ A list of kindle fire tablet firmware downloads. Downloads straight from Amazon.
 Please Note: This list is not complete and **may not be 100% accurate**. I've attempted to correctly list the links to the best of my ablity. I'm just finding these links on the internet archive and sharing them incase people need previous firmwares for their device. Also, I recommend **doing your own research before attempting to use these firmwares for updating etc. to avoid messing up/bricking your device.** **This list is provided 'as-is', without any express or implied warranty. In no event will I (SunderB) be held liable for any damages
 arising from the use of: this list or the firmwares in the downloads of this list.**.
 
+All the firmwares themselves are owned/copyrighted by Amazon Inc.
+
 Currently contains links to firmwares for:
 * [Kindle Fire HD 3rd Gen](#kindle-fire-hd-3rd-generation)
 * [Kindle Fire HDX 3rd Gen](#kindle-fire-hdx-3rd-generation)
