@@ -4,7 +4,7 @@ name: Archive firmware page
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: "0 2 */1 * *" # Run every day at 2am UTC
+    - cron: "0 0 */7 * *" # Run every 7 days at midnight UTC
     
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -22,4 +22,16 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Archive the Kindle Fire firmware downloads page
-        run: curl https://web.archive.org/save/www.amazon.com/gp/help/customer/display.html?nodeId=201357170
+  # You may pin to the exact commit or the version.
+  # uses: JamieMagee/wayback@e21aac00f6f58d64a665e014192e4c535c5314f6
+        uses: JamieMagee/wayback@v1.3.15
+        with:
+          # URL to submit to the wayback machine
+          url: "https://www.amazon.com/gp/help/customer/display.html?nodeId=201357170"
+          # If true, save HTTP errors as well
+          saveErrors: true # optional, default is true
+          # If true, save all links to external sites
+          saveOutlinks: true # optional, default is false
+          # If true, save a screenshot of the site
+          saveScreenshot: false # optional, default is false
+        
