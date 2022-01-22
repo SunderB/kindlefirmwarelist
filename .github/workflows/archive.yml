@@ -27,7 +27,7 @@ jobs:
         uses: JamieMagee/wayback@v1.3.15
         with:
           # URL to submit to the wayback machine
-          url: "https://www.amazon.com/gp/help/customer/display.html?nodeId=201357170"
+          url: "https://www.amazon.com/gp/help/customer/display.html?nodeId=G2JXLC4L34GX73TE"
           # If true, save HTTP errors as well
           saveErrors: true # optional, default is true
           # If true, save all links to external sites
