@@ -1,0 +1,30 @@
+# This is a basic workflow to help you get started with Actions
+name: Archive firmware page
+
+# Controls when the workflow will run
+on:
+  schedule:
+    - cron: "0 0 9,24 * *" # Run on 9th and 24th at midnight UTC
+    
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  archive-8th-gen:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      
+      - name: Fire HD 8 (8th Generation)
+        uses: JamieMagee/wayback@v1.3.15
+        with:
+          url: "https://www.amazon.com/update_Fire_HD8_8th_Gen"
+          saveErrors: true # optional, default is true
+          saveOutlinks: true # optional, default is false
+          saveScreenshot: false # optional, default is false
+  
