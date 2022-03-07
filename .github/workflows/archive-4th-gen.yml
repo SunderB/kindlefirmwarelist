@@ -4,7 +4,7 @@ name: Archive 4th generation firmware files
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: "0 0 1,16 * *" # Run every Monday at midnight UTC
+    - cron: "0 0 1,16 * *" # Run on 1st and 16th at midnight UTC
     
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -25,7 +25,7 @@ jobs:
       - name: Fire HDX 8.9 (4th Generation)
         uses: JamieMagee/wayback@v1.3.15
         with:
-          url: "https://www.amazon.com/update_Fire_HDX8.9_4th_Gen"
+          url: "https://www.amazon.com/update_Fire_HDX89_4th_Gen"
           saveErrors: true # optional, default is true
           saveOutlinks: true # optional, default is false
           saveScreenshot: false # optional, default is false
@@ -33,7 +33,7 @@ jobs:
       - name: Fire HD 7 (4th Generation)
         uses: JamieMagee/wayback@v1.3.15
         with:
-          url: "https://www.amazon.com/update_Fire_5th_Gen"
+          url: "https://www.amazon.com/update_FireHD7_4th_Gen"
           saveErrors: true # optional, default is true
           saveOutlinks: true # optional, default is false
           saveScreenshot: false # optional, default is false
@@ -41,7 +41,7 @@ jobs:
       - name: Fire HD 6 (4th Generation)
         uses: JamieMagee/wayback@v1.3.15
         with:
-          url: "https://www.amazon.com/update_Fire_5th_Gen"
+          url: "https://www.amazon.com/update_FireHD6_4th_Gen"
           saveErrors: true # optional, default is true
           saveOutlinks: true # optional, default is false
           saveScreenshot: false # optional, default is false
