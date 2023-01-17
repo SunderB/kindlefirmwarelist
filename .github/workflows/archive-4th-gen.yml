@@ -23,25 +23,16 @@ jobs:
       - uses: actions/checkout@v2
       
       - name: Fire HDX 8.9 (4th Generation)
-        uses: JamieMagee/wayback@v1.3.15
+        uses: JamieMagee/wayback@v1.3.28
         with:
           url: "https://www.amazon.com/update_Fire_HDX89_4th_Gen"
-          saveErrors: true # optional, default is true
-          saveOutlinks: true # optional, default is false
-          saveScreenshot: false # optional, default is false
           
       - name: Fire HD 7 (4th Generation)
-        uses: JamieMagee/wayback@v1.3.15
+        uses: JamieMagee/wayback@v1.3.28
         with:
           url: "https://www.amazon.com/update_FireHD7_4th_Gen"
-          saveErrors: true # optional, default is true
-          saveOutlinks: true # optional, default is false
-          saveScreenshot: false # optional, default is false
-          
+      
       - name: Fire HD 6 (4th Generation)
-        uses: JamieMagee/wayback@v1.3.15
+        uses: JamieMagee/wayback@v1.3.28
         with:
           url: "https://www.amazon.com/update_FireHD6_4th_Gen"
-          saveErrors: true # optional, default is true
-          saveOutlinks: true # optional, default is false
-          saveScreenshot: false # optional, default is false
